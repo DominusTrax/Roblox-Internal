@@ -7,11 +7,11 @@ I am not liable for what you do with these plugins and if you would like them ta
 ## Plugin List
 [Material Manager](https://github.com/DominusTrax/Roblox-Internal-Plugins/blob/main/plugins/MaterialManager.rbxm) - This allows you to manage all the materials within your game.
 
-[Event Emulator](https://google.com) - This allows you to emulate certain events.
+[Event Emulator](https://github.com/DominusTrax/Roblox-Internal-Plugins/blob/main/plugins/EventEmulator.rbxm) - This allows you to emulate certain events.
 
-[Storybook](https://google.com) - This allows you to preview React UIs
+[Storybook](https://google.com](https://github.com/DominusTrax/Roblox-Internal-Plugins/blob/main/plugins/DeveloperStorybook.rbxm) - This allows you to preview React UIs
 
-[Developer Inspector](https://google.com) - This allows you to inspect different objects within your game.
+[Developer Inspector](https://github.com/DominusTrax/Roblox-Internal-Plugins/blob/main/plugins/DeveloperInspector.rbxm) - This allows you to inspect different objects within your game.
 
 
 ## Roblox Internal Build: 5.12.9
