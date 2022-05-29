@@ -17,6 +17,6 @@ I am not liable for what you do with these plugins and if you would like them ta
 ## Roblox Internal Build: 5.12.9
 Whatever you do with this is not liable under me. If you would like this removed please open an issue. I will only delete the versions requested so please list **each version** you would like deleted
 
-[Download Latest]()
+[Download Latest](https://mega.nz/file/cdJmmT4B#wR0JVH6MXVHoKo-7PYsB_WKqv6jq0kSUIpq_aWZMH5s)
 
-[View Versions](https://google.com)
+[View Versions](https://mega.nz/folder/sJpkRBKQ#N9CtbiLUy_DpB2KBE4A_ZQ)
