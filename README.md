@@ -15,8 +15,8 @@ I am not liable for what you do with these plugins and if you would like them ta
 
 
 ## Roblox Internal Build: 5.12.9
-Whatever you do with this is not liable under me. If you would like this removed please open an issue.
+Whatever you do with this is not liable under me. If you would like this removed please open an issue. I will only delete the versions requested so please list **each version** you would like deleted
 
-[Download](https://google.com)
+[Download Latest]()
 
-[View Old Versions](https://github.com/DominusTrax/Roblox-Internal-Plugins/tree/main/internal-studio)
+[View Versions](https://google.com)
