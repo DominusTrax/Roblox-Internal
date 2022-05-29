@@ -5,7 +5,7 @@ I am not liable for what you do with these plugins and if you would like them ta
 *all links temporarily lead to google.com*
 
 ## Plugin List
-[Material Manager](https://google.com](https://github.com/DominusTrax/Roblox-Internal-Plugins/blob/main/plugins/MaterialManager.rbxm) - This allows you to manage all the materials within your game.
+[Material Manager](https://github.com/DominusTrax/Roblox-Internal-Plugins/blob/main/plugins/MaterialManager.rbxm) - This allows you to manage all the materials within your game.
 
 [Event Emulator](https://google.com) - This allows you to emulate certain events.
 
