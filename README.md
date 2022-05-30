@@ -2,8 +2,6 @@
 This is a public list of all internal roblox things related. This is not auto-updated although I will update it every so often.
 I am not liable for what you do with these plugins or sources and if you would like them taken down please open an issue and I will get back ASAP.
 
-*all links temporarily lead to google.com*
-
 ## Plugin List
 [Material Manager](https://github.com/DominusTrax/Roblox-Internal-Plugins/blob/main/plugins/MaterialManager.rbxm) - This allows you to manage all the materials within your game.
 
