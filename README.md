@@ -1,6 +1,6 @@
 # Roblox Plugins
-This is a public list of all of roblox's plugins. This is not auto-updated although I will update it every so often.
-I am not liable for what you do with these plugins and if you would like them taken down please open an issue and I will get back ASAP.
+This is a public list of all internal roblox things related. This is not auto-updated although I will update it every so often.
+I am not liable for what you do with these plugins or sources and if you would like them taken down please open an issue and I will get back ASAP.
 
 *all links temporarily lead to google.com*
 
