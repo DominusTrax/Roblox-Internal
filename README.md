@@ -14,7 +14,7 @@ I am not liable for what you do with these plugins or sources and if you would l
 [Developer Inspector](https://github.com/DominusTrax/Roblox-Internal-Plugins/blob/main/plugins/DeveloperInspector.rbxm) - This allows you to inspect different objects within your game.
 
 
-## Roblox Internal Build: 5.12.9
+## Roblox Internal Studio Build: 5.12.9
 Whatever you do with this is not liable under me. If you would like this removed please open an issue. I will only delete the versions requested so please list **each version** you would like deleted
 
 [Download Latest](https://mega.nz/file/cdJmmT4B#wR0JVH6MXVHoKo-7PYsB_WKqv6jq0kSUIpq_aWZMH5s)
